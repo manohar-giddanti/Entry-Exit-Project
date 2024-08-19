@@ -1,0 +1,11 @@
+{
+     "Nav.headding" : "APH 出入口控制系统" , 
+    "Sidebar.APACHE" : "阿帕奇" , 
+    "Sidebar.Home" : "家" , 
+    "Sidebar.Permisions" : "权限" , 
+    "Sidebar.Dashboard" : "仪表板" , 
+    "Nav.User" : "用户" , 
+     "Nav.UpdatePassword" : "更新密码" , 
+      "Nav.Logout" : "登出" 
+
+} 

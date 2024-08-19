@@ -1,0 +1,127 @@
+{
+  "Sidebar.APACHE": "APACHE",
+  "Sidebar.Permisions": "Permisions",
+  "Sidebar.Dashboard": "Dashboard",
+  "Sidebar.Home": "Home",
+  "Sidebar.Search": "Search",
+  "Sidebar.Reports": "Reports",
+  "Sidebar.Outin": "Out In ",
+  "Sidebar.Inout": "In Out",
+
+  "Nav.headding": "APH Entry Exit Control System",
+  "Nav.User": "User",
+  "Nav.UpdatePassword": " Update Password ",
+  "Nav.Logout": "Logout",
+  "Nav.Updatepassword": "Update Password ",
+  "Nav.NewPassword": "New Password ",
+  "Nav.EnterNewPassword": "Enter New Password",
+  "Nav.ConfirmPassword": " Confirm Password",
+  "Nav.EnterConfirmPassword": "Enter Confirm Password",
+  "Nav.Backtologin": "Back to logout ",
+  "Nav.Username": "Username",
+  "Nav.EnterUsername": "Enter Username ",
+  "Nav.Update": "Update",
+
+  "permision.List": "List",
+  "Permision_Management": "Permision Management",
+  "Permision.Rule.code": "Rule Code",
+  "Permision.Enter.Rule_Code": "Enter Rule Code ",
+  "Permisions.Query": "Query",
+  "Permisions.Reset": "Reset",
+  "Permisions.Save": "Save",
+  "Permision.Home": "Home",
+  "Permision.Reports": "Reports",
+  "Permision.Permisions": "Permisions",
+  "Permision.Outin": "OutList",
+  "Permision.Inout": "Inlist",
+  "Permision.Dashboard": "Dashboard",
+
+
+  
+ 
+
+
+  "Home.heading.welcome":"Welcome to APH EECS",
+
+  "Home.label.barcode":"Barcode",
+  "Home.label.Company":"Company",
+  "Home.label.employeeName":"Employee name",
+  "Home.label.department":"Department",
+  "Home.label.position":"Position",
+  "Home.label.status":"Status",
+  "Home.label.generatedNumber":"ID",
+  "Home.label.date":"Date",
+  "Home.label.fromLocation":"From Location",
+  "Home.label.toLocation":"To Location",
+
+
+  "Home.placeholder.barcode":"Barcode",
+  "Home.placeholder.employeeName":"Enter Name",
+  "Home.placeholder.department":"Enter Department",
+  "Home.placeholder.position":"Enter Position",
+  "Home.placeholder.generatedNumber":"ID",
+
+
+  "Home.button.submit":"Submit",
+  "Home.button.getdata":"GetData",
+
+
+  "Outin.title":"Out List",
+  "Outin.label.date":"Date",
+  "Outin.label.barcode":"Barcode",
+  "Outin.label.Company":"Company",
+  "Outin.label.employeeName":"Employee name",
+  "Outin.label.department":"Department",
+  "Outin.label.position":"Position",
+  "Outin.label.status":"Status",
+  "Outin.label.generatedNumber":"ID",
+  "Outin.label.fromLocation":"From Location",
+  "Outin.label.toLocation":"To Location",
+  "Outin.label.inTime":"Entry Time",
+  "Outin.label.outTime":"Exit Time",
+  "Outin.label.actions":"Status Change",
+  "Outin.label.edit":"Edit",
+  
+
+
+  "Inout.title":"In List",
+  "Inout.label.date":"Date",
+  "Inout.label.barcode":"Barcode",
+  "Inout.label.Company":"Company",
+  "Inout.label.employeeName":"Employee name",
+  "Inout.label.department":"Department",
+  "Inout.label.position":"Position",
+  "Inout.label.status":"Status",
+  "Inout.label.generatedNumber":"ID",
+  "Inout.label.fromLocation":"From Location",
+  "Inout.label.toLocation":"To Location",
+  "Inout.label.inTime":"Entry Time",
+  "Inout.label.outTime":"Exit Time",
+  "Inout.label.actions":"Status Change",
+  "Inout.label.edit":"Edit",
+
+
+
+
+
+  "reports.title.reports":"Reports",
+  "reports.label.date":"Date",
+  "reports.label.fromLocation":"From Location",
+  "reports.label.toLocation":"To Location",
+  "reports.label.barcode":"Barcode",
+  "reports.placeholder.barcode":"Enter barcode",
+  "reports.label.status":"Status",
+  "reports.button.submit":"Search",
+  "reports.button.Excel":"Excel",
+  "reports.button.Pdf":"PDF",
+
+
+
+
+  "Editmodel.title":"Employee Details",
+  "Editmodel.btn.close":"Close",
+  "Editmodel.btn.save":"Save"
+  
+
+
+}

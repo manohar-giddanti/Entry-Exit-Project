@@ -1,0 +1,49 @@
+
+ 
+ .apache-text {  
+    background-color: #3D52A0;  
+    color: white;  
+    padding: 5px 10px;  
+    border-radius: 5px;  
+  }  
+
+  html, body {  
+    height: 100%;
+    margin: 0;
+    overflow: hidden;  
+  }  
+                             
+  .sidebar {
+    background-color: #343a40;
+    height: 100vh; 
+    overflow: hidden;
+    background-color: #B3B4BD; 
+    font-size: 20px;
+  }
+
+  .toggle-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .apache-text.collapsed {  
+    display: none; 
+  }             
+  
+  .link {  
+    color: inherit; 
+    text-decoration: none;           
+  }  
+  
+  @media (max-width: 768px) {
+    .sidebar {
+      position: fixed; 
+      z-index: 1000; 
+    }
+  }  
+
+  
+  
+  
+  
+  

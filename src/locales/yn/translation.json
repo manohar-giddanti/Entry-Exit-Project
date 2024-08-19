@@ -1,0 +1,11 @@
+{ 
+     "Nav.headding" : "Hệ thống kiểm soát lối vào APH"  , 
+     "Sidebar.APACHE" : "APACHE" , 
+     "Sidebar.Home" : "Trang chủ" , 
+     "Sidebar.Permisions" : "Quyền" , 
+     "Sidebar.Dashboard" : "bảng điều khiển" , 
+     "Nav.User" : "Người dùng" , 
+      "Nav.UpdatePassword" : "Cập nhật mật khẩu" , 
+       "Nav.Logout" : "Đăng xuất"
+  }  
+  
